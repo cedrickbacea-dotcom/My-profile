@@ -3,7 +3,7 @@ This is my poging profile
 ### Hi there 👋
 * 👂 My name is Cedrick 
 * 👩 Pronouns: He/Him
-* 🔭 I’m currently working on 
+* 🔭 I’m currently working on myself
 * 🌱 I’m currently learning how to code
 * 🤝 I’m looking to collaborate on Creating Windows
 * 🤔 I’m looking for help with coding
