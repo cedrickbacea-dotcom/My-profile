@@ -12,4 +12,4 @@ This is my profile
 * ❤️ I love my family
 * ⚡ Fun fact: I play badminton
 
-<img src="https://www.primevideo.com/detail/Frieren-Beyond-Journeys-End-Original-Japanese-Version/0MWXW663BUIJAQWKGOA5QCAI21"/>
+<img src="https://a.storyblok.com/f/178900/3030x3009/f53282ed21/frieren_beyond_journeys_end_character_art2.jpg/m/filters:quality(95)format(webp)"/>
