@@ -14,4 +14,4 @@ This is my poging profile
 
 <img src="https://giffiles.alphacoders.com/222/222456.gif"/>
 
-<img src="https://media.tenor.com/6COMq6z3l5oAAAAM/bosnov-67.gif"/> <img src="(https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnFpYXRnNGZzc2IxMnc0MzMybnU5cDd1MXgyc3lpeDc5M2dwd3JsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wVEEp3Kk7hvnyJuvcu/200w.gif)"/>
+<img src="https://media.tenor.com/6COMq6z3l5oAAAAM/bosnov-67.gif"/> <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnFpYXRnNGZzc2IxMnc0MzMybnU5cDd1MXgyc3lpeDc5M2dwd3JsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wVEEp3Kk7hvnyJuvcu/200w.gif"/>
