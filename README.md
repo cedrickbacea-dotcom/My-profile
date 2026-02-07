@@ -1,5 +1,5 @@
-# My-profile
-This is my profile
+# Crustpogi
+This is my poging profile
 ### Hi there 👋
 * 👂 My name is Cedrick 
 * 👩 Pronouns: He/Him
@@ -13,4 +13,5 @@ This is my profile
 * ⚡ Fun fact: I play badminton
 
 <img src="https://giffiles.alphacoders.com/222/222456.gif"/>
-<img src="https://a.storyblok.com/f/178900/3030x3009/f53282ed21/frieren_beyond_journeys_end_character_art2.jpg/m/filters:quality(95)format(webp)"/>
+
+<img src="https://media.tenor.com/6COMq6z3l5oAAAAM/bosnov-67.gif"/>
