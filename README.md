@@ -15,3 +15,9 @@ This is my poging profile
 <img src="https://giffiles.alphacoders.com/222/222456.gif"/>
 
 <img src="https://media.tenor.com/6COMq6z3l5oAAAAM/bosnov-67.gif"/> 
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hzhajishsqimjmovarnbrt3bwi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
+  </a>
+</p>
