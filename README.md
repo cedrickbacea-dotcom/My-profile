@@ -13,3 +13,4 @@ This is my profile
 * ⚡ Fun fact: I play badminton
 
 <img src="https://giffiles.alphacoders.com/222/222456.gif"/>
+<img src="https://a.storyblok.com/f/178900/3030x3009/f53282ed21/frieren_beyond_journeys_end_character_art2.jpg/m/filters:quality(95)format(webp)"/>
